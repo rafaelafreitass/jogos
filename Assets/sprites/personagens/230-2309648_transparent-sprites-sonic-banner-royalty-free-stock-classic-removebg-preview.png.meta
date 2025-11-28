@@ -1,0 +1,3419 @@
+fileFormatVersion: 2
+guid: 8fc1572315f51054bab3e860eb7300e9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5018690557267140693
+    second: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_0
+  - first:
+      213: 6617642005867747392
+    second: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_1
+  - first:
+      213: -813413358532530058
+    second: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_2
+  - first:
+      213: 579184505599482063
+    second: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_3
+  - first:
+      213: 338992862833700611
+    second: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_4
+  - first:
+      213: -7940912023818502821
+    second: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_5
+  - first:
+      213: -808399160348882259
+    second: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_6
+  - first:
+      213: 792092187468878709
+    second: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_7
+  - first:
+      213: 7304022520639300438
+    second: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_8
+  - first:
+      213: -4725317988267895455
+    second: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_9
+  - first:
+      213: 2801866908434526201
+    second: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_10
+  - first:
+      213: 3418851932648449149
+    second: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_11
+  - first:
+      213: -1542987798237968070
+    second: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_12
+  - first:
+      213: -6442593158888248697
+    second: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_13
+  - first:
+      213: -6224496329840806673
+    second: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_14
+  - first:
+      213: 1302054232850489512
+    second: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_15
+  - first:
+      213: -5966291754248903215
+    second: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_16
+  - first:
+      213: 6719403393499682385
+    second: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_17
+  - first:
+      213: -3452447390918145544
+    second: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_18
+  - first:
+      213: 3622907731253699803
+    second: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_19
+  - first:
+      213: 4220810259902917649
+    second: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_20
+  - first:
+      213: -564952207289376584
+    second: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_21
+  - first:
+      213: 5858446718913446783
+    second: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_22
+  - first:
+      213: 6962351176254181957
+    second: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_23
+  - first:
+      213: -753294518286579454
+    second: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_24
+  - first:
+      213: -7836910069124400615
+    second: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_25
+  - first:
+      213: 3773235630986922896
+    second: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_26
+  - first:
+      213: 8366262531220349789
+    second: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_27
+  - first:
+      213: -615711493566387649
+    second: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_28
+  - first:
+      213: -7971494413550429089
+    second: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_29
+  - first:
+      213: 2024231189488378276
+    second: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_30
+  - first:
+      213: -366545617026823686
+    second: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_31
+  - first:
+      213: 4114728985338784450
+    second: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_32
+  - first:
+      213: 6241284599588051913
+    second: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_33
+  - first:
+      213: 5256038416059827473
+    second: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_34
+  - first:
+      213: -2384390574554871150
+    second: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_35
+  - first:
+      213: 2391019823142528177
+    second: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_36
+  - first:
+      213: 4781366079494721572
+    second: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_37
+  - first:
+      213: -7790114127933469374
+    second: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_38
+  - first:
+      213: -3143760044009702321
+    second: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_39
+  - first:
+      213: -8281532545875706795
+    second: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_40
+  - first:
+      213: -7666200882438842160
+    second: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_41
+  - first:
+      213: -713305376807894182
+    second: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_42
+  - first:
+      213: -3785443779925703646
+    second: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_43
+  - first:
+      213: -6072192436480588232
+    second: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_44
+  - first:
+      213: 6521787430678885427
+    second: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_45
+  - first:
+      213: -9191533925858111187
+    second: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_46
+  - first:
+      213: -6248837778905397670
+    second: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_47
+  - first:
+      213: -7887626137423282402
+    second: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_48
+  - first:
+      213: 6286280735611710405
+    second: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_49
+  - first:
+      213: 2282608157487336714
+    second: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_50
+  - first:
+      213: 5662104821894125720
+    second: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_51
+  - first:
+      213: 3328729154886184520
+    second: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_52
+  - first:
+      213: -1174798038502515969
+    second: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_53
+  - first:
+      213: 7201609937783954048
+    second: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_54
+  - first:
+      213: 2100203241212831985
+    second: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_55
+  - first:
+      213: -6088091172647164871
+    second: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_56
+  - first:
+      213: -2464208443383672120
+    second: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_57
+  - first:
+      213: 6214433757548015068
+    second: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_58
+  - first:
+      213: 8451449700219074099
+    second: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_59
+  - first:
+      213: 6243685875972998882
+    second: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_60
+  - first:
+      213: -6886794448750943500
+    second: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_61
+  - first:
+      213: 4173516768357958691
+    second: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_62
+  - first:
+      213: -8873985899127571459
+    second: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_63
+  - first:
+      213: 5377252408002503662
+    second: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_64
+  - first:
+      213: -5142335774351766619
+    second: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_65
+  - first:
+      213: -1977223391595897770
+    second: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_66
+  - first:
+      213: -8702672489515193841
+    second: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_67
+  - first:
+      213: -6412077695503712439
+    second: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_68
+  - first:
+      213: 1849877571488910897
+    second: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_69
+  - first:
+      213: -8520975128562244959
+    second: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_70
+  - first:
+      213: 4778687016179906469
+    second: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_71
+  - first:
+      213: -4329476093386837173
+    second: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_72
+  - first:
+      213: 2551706241068589367
+    second: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_73
+  - first:
+      213: 6474177458940251711
+    second: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_74
+  - first:
+      213: -1678963532067162893
+    second: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_75
+  - first:
+      213: -7304022118546450355
+    second: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_76
+  - first:
+      213: -8455747820374316921
+    second: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_77
+  - first:
+      213: 371892299099291824
+    second: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_78
+  - first:
+      213: 9138662009311954399
+    second: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_79
+  - first:
+      213: -8286427015268284424
+    second: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_80
+  - first:
+      213: 5582897525126620579
+    second: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_81
+  - first:
+      213: 5005825313260331981
+    second: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_82
+  - first:
+      213: 8656912528133000624
+    second: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_83
+  - first:
+      213: 8370494913003733457
+    second: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_84
+  - first:
+      213: -321664998853462244
+    second: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_85
+  - first:
+      213: 4874908357558166896
+    second: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_86
+  - first:
+      213: -1904239488980588771
+    second: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_87
+  - first:
+      213: -5585830563699649353
+    second: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_88
+  - first:
+      213: 173742202773200210
+    second: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_89
+  - first:
+      213: 6820646920408899004
+    second: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_90
+  - first:
+      213: 4310167939137632693
+    second: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_91
+  - first:
+      213: -3565347259802028969
+    second: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_92
+  - first:
+      213: -6651423339717482773
+    second: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_93
+  - first:
+      213: -7899425296561747339
+    second: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_94
+  - first:
+      213: -4101006602894114500
+    second: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_95
+  - first:
+      213: 6280743139267697476
+    second: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_96
+  - first:
+      213: 7828549706208352136
+    second: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_97
+  - first:
+      213: -4574773879058351503
+    second: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_98
+  - first:
+      213: 2243966997913629043
+    second: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_99
+  - first:
+      213: 7375507508800215095
+    second: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_100
+  - first:
+      213: 7197310857649583400
+    second: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_101
+  - first:
+      213: -7316175280857919842
+    second: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_102
+  - first:
+      213: 7477108128811791997
+    second: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_103
+  - first:
+      213: -1858470224727693174
+    second: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_104
+  - first:
+      213: 2523199462548277198
+    second: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_105
+  - first:
+      213: -8305933737726864215
+    second: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_106
+  - first:
+      213: -7621923187417819680
+    second: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_107
+  - first:
+      213: 3024885917713177344
+    second: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_108
+  - first:
+      213: -2875482568905836937
+    second: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_109
+  - first:
+      213: -896119505112332000
+    second: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_110
+  - first:
+      213: -6556737476684168654
+    second: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_111
+  - first:
+      213: -3850368805605751285
+    second: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_112
+  - first:
+      213: -154989535555813067
+    second: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_113
+  - first:
+      213: -6454543982702046692
+    second: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_114
+  - first:
+      213: -7162630959927863342
+    second: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_115
+  - first:
+      213: -5567487996184428642
+    second: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_116
+  - first:
+      213: -5403546345421239604
+    second: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_117
+  - first:
+      213: -3120611147058693467
+    second: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_118
+  - first:
+      213: 7394595326754472312
+    second: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_119
+  - first:
+      213: -4526230048429648767
+    second: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_120
+  - first:
+      213: 7054690832745785121
+    second: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_121
+  - first:
+      213: -3200288356545949960
+    second: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_122
+  - first:
+      213: 5220649959126308412
+    second: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_123
+  - first:
+      213: 810480748793315119
+    second: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_124
+  - first:
+      213: -718863849148660809
+    second: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_125
+  - first:
+      213: 2272730116804915530
+    second: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_126
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 499
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 550e38fb878f5a540800000000000000
+      internalID: 5018690557267140693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 499
+        width: 7
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0485372b75696db50800000000000000
+      internalID: 6617642005867747392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 499
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6707c1d2cdc26b4f0800000000000000
+      internalID: -813413358532530058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 499
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc8daab3d3da90800800000000000000
+      internalID: 579184505599482063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 499
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30f6892763854b400800000000000000
+      internalID: 338992862833700611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 517
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5d7bab46963cc190800000000000000
+      internalID: -7940912023818502821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 499
+        width: 7
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daa4eaa2f3df7c4f0800000000000000
+      internalID: -808399160348882259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 499
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 573d177d5a31efa00800000000000000
+      internalID: 792092187468878709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 499
+        width: 37
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 653a82eb8c91d5560800000000000000
+      internalID: 7304022520639300438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 499
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1655782535c4c6eb0800000000000000
+      internalID: -4725317988267895455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 517
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ff6929bb1b32e620800000000000000
+      internalID: 2801866908434526201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 499
+        width: 7
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d742b2908b3327f20800000000000000
+      internalID: 3418851932648449149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 499
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a398349c5c4369ae0800000000000000
+      internalID: -1542987798237968070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 498
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78aaa1408af4796a0800000000000000
+      internalID: -6442593158888248697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 516
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe4bd1a11952e99a0800000000000000
+      internalID: -6224496329840806673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 498
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a0e85b1d63d11210800000000000000
+      internalID: 1302054232850489512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 491
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d5e6a1a249733da0800000000000000
+      internalID: -5966291754248903215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 498
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1565a1419cd104d50800000000000000
+      internalID: 6719403393499682385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 498
+        width: 7
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f9899ac3617610d0800000000000000
+      internalID: -3452447390918145544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 498
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd4a467f267274230800000000000000
+      internalID: 3622907731253699803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_20
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 498
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11c66dd8194539a30800000000000000
+      internalID: 4220810259902917649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 446
+        width: 31
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b0a171f5f2e828f0800000000000000
+      internalID: -564952207289376584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_22
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 446
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f73836060426d4150800000000000000
+      internalID: 5858446718913446783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_23
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 446
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5425726b18d3f9060800000000000000
+      internalID: 6962351176254181957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_24
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 446
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 209874270a2cb85f0800000000000000
+      internalID: -753294518286579454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_25
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 446
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91a782950d3bd3390800000000000000
+      internalID: -7836910069124400615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_26
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 446
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09b82de90d93d5430800000000000000
+      internalID: 3773235630986922896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_27
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 407
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d53ac0f127fea1470800000000000000
+      internalID: 8366262531220349789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_28
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 446
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3aa9d5a8ad8477f0800000000000000
+      internalID: -615711493566387649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_29
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 407
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5cd05fc0109f5190800000000000000
+      internalID: -7971494413550429089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_30
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 447
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a1a8b0ca83871c10800000000000000
+      internalID: 2024231189488378276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_31
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 447
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af9c32f04b4c9eaf0800000000000000
+      internalID: -366545617026823686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_32
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 447
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ca2f1e16347a1930800000000000000
+      internalID: 4114728985338784450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_33
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 447
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cbdf8c864f7d9650800000000000000
+      internalID: 6241284599588051913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_34
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 407
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1158d0b771331f840800000000000000
+      internalID: 5256038416059827473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_35
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 407
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29a0eddc761f8eed0800000000000000
+      internalID: -2384390574554871150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_36
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 407
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b4e3596cdb9e2120800000000000000
+      internalID: 2391019823142528177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_37
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 406
+        width: 33
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4209265dd13da5240800000000000000
+      internalID: 4781366079494721572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_38
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 407
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24d06c47974f3e390800000000000000
+      internalID: -7790114127933469374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_39
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 409
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4c3cb575ee1f54d0800000000000000
+      internalID: -3143760044009702321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_40
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 407
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55cfd37e606121d80800000000000000
+      internalID: -8281532545875706795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_41
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 407
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d852792aee2c9590800000000000000
+      internalID: -7666200882438842160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_42
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 407
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a534dfef984d916f0800000000000000
+      internalID: -713305376807894182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_43
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 408
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 224015430f6677bc0800000000000000
+      internalID: -3785443779925703646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 360
+        width: 35
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 836c2cf962d3bbba0800000000000000
+      internalID: -6072192436480588232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_45
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 361
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 334f8324d1b028a50800000000000000
+      internalID: 6521787430678885427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_46
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 361
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d219640e79c117080800000000000000
+      internalID: -9191533925858111187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_47
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 361
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a568d49d52ba749a0800000000000000
+      internalID: -6248837778905397670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_48
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 361
+        width: 36
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1f7cc581d5898290800000000000000
+      internalID: -7887626137423282402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_49
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 362
+        width: 35
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cb648cd50b5d3750800000000000000
+      internalID: 6286280735611710405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 325
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0d017486047daf10800000000000000
+      internalID: 2282608157487336714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_51
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 326
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 898960e1656d39e40800000000000000
+      internalID: 5662104821894125720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_52
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 326
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84e2a7ea785023e20800000000000000
+      internalID: 3328729154886184520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_53
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 326
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffa5b38886742bfe0800000000000000
+      internalID: -1174798038502515969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_54
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 326
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08a1988251241f360800000000000000
+      internalID: 7201609937783954048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_55
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 325
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f86d9478bb652d10800000000000000
+      internalID: 2100203241212831985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_56
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 325
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 934ac26a551c28ba0800000000000000
+      internalID: -6088091172647164871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_57
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 325
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c219970a7f5dcdd0800000000000000
+      internalID: -2464208443383672120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_58
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 324
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdd68d6b39a1e3650800000000000000
+      internalID: 6214433757548015068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_59
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 291
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 336b3a289b4994570800000000000000
+      internalID: 8451449700219074099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_60
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 291
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e68e76493706a650800000000000000
+      internalID: 6243685875972998882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_61
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 291
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f26119cfe03d60a0800000000000000
+      internalID: -6886794448750943500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_62
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 291
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 324cc1a736f4be930800000000000000
+      internalID: 4173516768357958691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_63
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 291
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfbfca457d449d480800000000000000
+      internalID: -8873985899127571459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_64
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 291
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee36a9e3396df9a40800000000000000
+      internalID: 5377252408002503662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 250
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5abcaf5cbd0c2a8b0800000000000000
+      internalID: -5142335774351766619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_66
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 250
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65c55561dcd7f84e0800000000000000
+      internalID: -1977223391595897770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_67
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 250
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0ae1e1ca75e93780800000000000000
+      internalID: -8702672489515193841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_68
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 250
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94fbb4ffe49b307a0800000000000000
+      internalID: -6412077695503712439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_69
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 250
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13e0f86a9d51ca910800000000000000
+      internalID: 1849877571488910897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_70
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 250
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a2eb12444a6fb980800000000000000
+      internalID: -8520975128562244959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_71
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 206
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a7bc2cc58e415240800000000000000
+      internalID: 4778687016179906469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_72
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 206
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b43b12e7e6c9ae3c0800000000000000
+      internalID: -4329476093386837173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_73
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 207
+        width: 41
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7316a068e4b796320800000000000000
+      internalID: 2551706241068589367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_74
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 207
+        width: 41
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3e89f4e816e8d950800000000000000
+      internalID: 6474177458940251711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_75
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 207
+        width: 41
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f43d48209f13b8e0800000000000000
+      internalID: -1678963532067162893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_76
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 207
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d485170e496e2aa90800000000000000
+      internalID: -7304022118546450355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_77
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 153
+        width: 26
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7882e48682627aa80800000000000000
+      internalID: -8455747820374316921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_78
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 153
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b0448e531a392500800000000000000
+      internalID: 371892299099291824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_79
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 153
+        width: 22
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd58563cdac03de70800000000000000
+      internalID: 9138662009311954399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_80
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 154
+        width: 27
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f7cbb17882b00d80800000000000000
+      internalID: -8286427015268284424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_81
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 154
+        width: 27
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a5649a38bf6a7d40800000000000000
+      internalID: 5582897525126620579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_82
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 153
+        width: 22
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc36a84b993487540800000000000000
+      internalID: 5005825313260331981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_83
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 155
+        width: 42
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bd0ffaf318832870800000000000000
+      internalID: 8656912528133000624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_84
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 156
+        width: 41
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d14dcb46c8f92470800000000000000
+      internalID: 8370494913003733457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_85
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 107
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c17b9a64367398bf0800000000000000
+      internalID: -321664998853462244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_86
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 109
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07566d4a25727a340800000000000000
+      internalID: 4874908357558166896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_87
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 109
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d176a0c1648c295e0800000000000000
+      internalID: -1904239488980588771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_88
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 109
+        width: 35
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b4992382b42b72b0800000000000000
+      internalID: -5585830563699649353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_89
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 109
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25d5ac6ec91496200800000000000000
+      internalID: 173742202773200210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_90
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 109
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbd955d9c3ec7ae50800000000000000
+      internalID: 6820646920408899004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_91
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 109
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b9739687eac0db30800000000000000
+      internalID: 4310167939137632693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_92
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 110
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7547696ae87558ec0800000000000000
+      internalID: -3565347259802028969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_93
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 55
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be6a56996b561b3a0800000000000000
+      internalID: -6651423339717482773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_94
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 55
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57ac3b4bb8a9f5290800000000000000
+      internalID: -7899425296561747339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_95
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 58
+        width: 25
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3107f4093c4617c0800000000000000
+      internalID: -4101006602894114500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_96
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 58
+        width: 25
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44bd58dbb9ea92750800000000000000
+      internalID: 6280743139267697476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_97
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 43
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8879909fa7894ac60800000000000000
+      internalID: 7828549706208352136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_98
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 41
+        width: 34
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17abdfa25632380c0800000000000000
+      internalID: -4574773879058351503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_99
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 41
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3717756781c242f10800000000000000
+      internalID: 2243966997913629043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_100
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 41
+        width: 36
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 738534c80011b5660800000000000000
+      internalID: 7375507508800215095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_101
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 43
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 825f340971cf1e360800000000000000
+      internalID: 7197310857649583400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_102
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 43
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9e48f54859b77a90800000000000000
+      internalID: -7316175280857919842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_103
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 43
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d76330d4a3604c760800000000000000
+      internalID: 7477108128811791997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_104
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 43
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a88277d5d236536e0800000000000000
+      internalID: -1858470224727693174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_105
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 41
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec785aeea84340320800000000000000
+      internalID: 2523199462548277198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_106
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 43
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a49bd2b5456bbc80800000000000000
+      internalID: -8305933737726864215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_107
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 41
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e5d5a46e3d793690800000000000000
+      internalID: -7621923187417819680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_108
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 34
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00b106337bd8af920800000000000000
+      internalID: 3024885917713177344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_109
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 34
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7763a8aa6db3818d0800000000000000
+      internalID: -2875482568905836937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_110
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 34
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0290b75de085093f0800000000000000
+      internalID: -896119505112332000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_111
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 34
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 232cfb8010ac105a0800000000000000
+      internalID: -6556737476684168654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_112
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 34
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b06cf9fa8fdb09ac0800000000000000
+      internalID: -3850368805605751285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_113
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 31
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5310b4da6dd59ddf0800000000000000
+      internalID: -154989535555813067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_114
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 34
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c12d8e3027adc66a0800000000000000
+      internalID: -6454543982702046692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_115
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 34
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d7d8485719399c90800000000000000
+      internalID: -7162630959927863342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_116
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 34
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9ffc205a2f4cb2b0800000000000000
+      internalID: -5567487996184428642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_117
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 27
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cca8ec16a3fb205b0800000000000000
+      internalID: -5403546345421239604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_118
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 27
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aa317902bc51b4d0800000000000000
+      internalID: -3120611147058693467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_119
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 27
+        width: 27
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 871c6fc7541ee9660800000000000000
+      internalID: 7394595326754472312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_120
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 27
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 184d6af70c99f21c0800000000000000
+      internalID: -4526230048429648767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_121
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 27
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 127640e5feb47e160800000000000000
+      internalID: 7054690832745785121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_122
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 27
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fe824112ba4693d0800000000000000
+      internalID: -3200288356545949960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_123
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 27
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3691664a79737840800000000000000
+      internalID: 5220649959126308412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_124
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 25
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2f3e1962f76f3b00800000000000000
+      internalID: 810480748793315119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_125
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 0
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b3cf9d43251606f0800000000000000
+      internalID: -718863849148660809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_126
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 0
+        width: 25
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a413d72fffb5a8f10800000000000000
+      internalID: 2272730116804915530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_0: 5018690557267140693
+      230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_1: 6617642005867747392
+      230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_10: 2801866908434526201
+      230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_100: 7375507508800215095
+      230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_101: 7197310857649583400
+      230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_102: -7316175280857919842
+      230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_103: 7477108128811791997
+      230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_104: -1858470224727693174
+      230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_105: 2523199462548277198
+      230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_106: -8305933737726864215
+      230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_107: -7621923187417819680
+      230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_108: 3024885917713177344
+      230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_109: -2875482568905836937
+      230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_11: 3418851932648449149
+      230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_110: -896119505112332000
+      230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_111: -6556737476684168654
+      230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_112: -3850368805605751285
+      230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_113: -154989535555813067
+      230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_114: -6454543982702046692
+      230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_115: -7162630959927863342
+      230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_116: -5567487996184428642
+      230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_117: -5403546345421239604
+      230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_118: -3120611147058693467
+      230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_119: 7394595326754472312
+      230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_12: -1542987798237968070
+      230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_120: -4526230048429648767
+      230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_121: 7054690832745785121
+      230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_122: -3200288356545949960
+      230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_123: 5220649959126308412
+      230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_124: 810480748793315119
+      230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_125: -718863849148660809
+      230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_126: 2272730116804915530
+      230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_13: -6442593158888248697
+      230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_14: -6224496329840806673
+      230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_15: 1302054232850489512
+      230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_16: -5966291754248903215
+      230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_17: 6719403393499682385
+      230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_18: -3452447390918145544
+      230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_19: 3622907731253699803
+      230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_2: -813413358532530058
+      230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_20: 4220810259902917649
+      230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_21: -564952207289376584
+      230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_22: 5858446718913446783
+      230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_23: 6962351176254181957
+      230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_24: -753294518286579454
+      230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_25: -7836910069124400615
+      230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_26: 3773235630986922896
+      230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_27: 8366262531220349789
+      230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_28: -615711493566387649
+      230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_29: -7971494413550429089
+      230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_3: 579184505599482063
+      230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_30: 2024231189488378276
+      230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_31: -366545617026823686
+      230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_32: 4114728985338784450
+      230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_33: 6241284599588051913
+      230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_34: 5256038416059827473
+      230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_35: -2384390574554871150
+      230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_36: 2391019823142528177
+      230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_37: 4781366079494721572
+      230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_38: -7790114127933469374
+      230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_39: -3143760044009702321
+      230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_4: 338992862833700611
+      230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_40: -8281532545875706795
+      230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_41: -7666200882438842160
+      230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_42: -713305376807894182
+      230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_43: -3785443779925703646
+      230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_44: -6072192436480588232
+      230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_45: 6521787430678885427
+      230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_46: -9191533925858111187
+      230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_47: -6248837778905397670
+      230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_48: -7887626137423282402
+      230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_49: 6286280735611710405
+      230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_5: -7940912023818502821
+      230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_50: 2282608157487336714
+      230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_51: 5662104821894125720
+      230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_52: 3328729154886184520
+      230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_53: -1174798038502515969
+      230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_54: 7201609937783954048
+      230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_55: 2100203241212831985
+      230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_56: -6088091172647164871
+      230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_57: -2464208443383672120
+      230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_58: 6214433757548015068
+      230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_59: 8451449700219074099
+      230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_6: -808399160348882259
+      230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_60: 6243685875972998882
+      230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_61: -6886794448750943500
+      230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_62: 4173516768357958691
+      230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_63: -8873985899127571459
+      230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_64: 5377252408002503662
+      230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_65: -5142335774351766619
+      230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_66: -1977223391595897770
+      230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_67: -8702672489515193841
+      230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_68: -6412077695503712439
+      230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_69: 1849877571488910897
+      230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_7: 792092187468878709
+      230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_70: -8520975128562244959
+      230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_71: 4778687016179906469
+      230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_72: -4329476093386837173
+      230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_73: 2551706241068589367
+      230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_74: 6474177458940251711
+      230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_75: -1678963532067162893
+      230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_76: -7304022118546450355
+      230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_77: -8455747820374316921
+      230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_78: 371892299099291824
+      230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_79: 9138662009311954399
+      230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_8: 7304022520639300438
+      230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_80: -8286427015268284424
+      230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_81: 5582897525126620579
+      230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_82: 5005825313260331981
+      230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_83: 8656912528133000624
+      230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_84: 8370494913003733457
+      230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_85: -321664998853462244
+      230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_86: 4874908357558166896
+      230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_87: -1904239488980588771
+      230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_88: -5585830563699649353
+      230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_89: 173742202773200210
+      230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_9: -4725317988267895455
+      230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_90: 6820646920408899004
+      230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_91: 4310167939137632693
+      230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_92: -3565347259802028969
+      230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_93: -6651423339717482773
+      230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_94: -7899425296561747339
+      230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_95: -4101006602894114500
+      230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_96: 6280743139267697476
+      230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_97: 7828549706208352136
+      230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_98: -4574773879058351503
+      230-2309648_transparent-sprites-sonic-banner-royalty-free-stock-classic-removebg-preview_99: 2243966997913629043
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

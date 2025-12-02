@@ -8,4 +8,4 @@ public class EnemyJump : MonoBehaviour
     {
         if(collision.gameObject.tag == "Enemy") collision.gameObject.SendMessage("Jump", jumpForce);
     }
-    }
+}

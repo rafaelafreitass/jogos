@@ -7,6 +7,10 @@ public class SonicController : MonoBehaviour
     [SerializeField]
     private float bounceForce = 10f; 
 
+    [Tooltip("Dano que o Sonic inflige ao acertar um inimigo por cima.")]
+    [SerializeField]
+    private int damageToEnemy = 1;
+
     // Referência ao Rigidbody2D do Sonic
     private Rigidbody2D rb; 
 
@@ -23,18 +27,19 @@ public class SonicController : MonoBehaviour
     // Chamado quando o colisor do Sonic entra em contato com um **TRIGGER** (KillZone)
     private void OnTriggerEnter2D(Collider2D other)
     {
-        // 1. LÓGICA DE MORTE DO INIMIGO (KILLZONE)
+        // 1. LÓGICA DE MORTE DO INIMIGO (KILLZONE - Acerto por Cima)
         if (other.CompareTag("EnemyKillZone"))
         {
-            // O KillZone é um filho, o Inimigo é o pai
+            // O KillZone é um filho, o Inimigo (que tem o EnemyController) é o pai
             EnemyController enemy = other.transform.parent.GetComponent<EnemyController>();
             
             if (enemy != null)
             {
-                // Chama o método de morte do script do inimigo
-                enemy.Die(); 
+                // Chama o método TakeDamage no script do inimigo.
+                // Se o inimigo tiver 1 de vida (ou menos), ele irá morrer dentro do seu próprio script.
+                enemy.TakeDamage(damageToEnemy); 
                 
-                // Aplica o quique (bounce)
+                // Aplica o quique (bounce) para dar a sensação de Sonic
                 ApplyBounce();
             }
         }
@@ -43,12 +48,11 @@ public class SonicController : MonoBehaviour
     // Chamado quando o colisor do Sonic entra em contato com um **COLISOR SÓLIDO** (Hurtbox)
     private void OnCollisionEnter2D(Collision2D collision)
     {
-        // 2. LÓGICA DE DANO DO SONIC (HURTBOX / LADOS)
+        // 2. LÓGICA DE DANO DO SONIC (HURTBOX / LADOS ou Por Baixo)
         if (collision.gameObject.CompareTag("Enemy"))
         {
-            // Se chegou aqui, não foi um acerto na KillZone, então o Sonic leva dano.
-            // Para maior robustez, você pode adicionar uma checagem de velocidade vertical, 
-            // mas a separação de colisores já garante que é um acerto lateral/inferior.
+            // A colisão ocorreu fora da KillZone (Trigger), 
+            // logo, o Sonic acertou o corpo do inimigo e leva dano.
             
             TakeDamage();
         }
@@ -69,19 +73,13 @@ public class SonicController : MonoBehaviour
 
     private void TakeDamage()
     {
-        // *** ESTE É ONDE VOCÊ DESENVOLVE SUA LÓGICA DE DANO ***
+        // *** LÓGICA DE DANO AO SONIC ***
         
-        Debug.Log("Sonic levou dano! Lógica de perda de anéis/morte deve ser executada aqui.");
+        Debug.Log("Sonic levou dano! O EnemyController tinha a Tag 'Enemy'.");
         
-        // Exemplo: 
-        // if (ringCount > 0)
-        // {
-        //     DropRings();
-        //     StartInvincibilityFrames();
-        // }
-        // else
-        // {
-        //     Die();
-        // }
+        // Aqui deve entrar a lógica para:
+        // 1. Verificar se o Sonic tem anéis.
+        // 2. Se tiver, soltar os anéis e dar invencibilidade temporária.
+        // 3. Se não tiver anéis (ou vida), rodar a animação de morte do Sonic.
     }
 }
